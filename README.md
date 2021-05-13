@@ -25,6 +25,6 @@
 
 [![WaDe's GitHub stats](https://github-readme-stats.vercel.app/api?username=wen648&show_icons=true&theme=vision-friendly-dark&hide_border=true)](https://github.com/wen648)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wen648&theme=vision-friendly-dark)](https://github.com/wen648)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wen648&theme=vision-friendly-dark&hide_border=true)](https://github.com/wen648)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wen648&repo=Canghai&theme=vision-friendly-dark&show_owner=true)](https://github.com/wen648/Canghai)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wen648&repo=Canghai&theme=vision-friendly-dark&show_owner=true&hide_border=true)](https://github.com/wen648/Canghai)
