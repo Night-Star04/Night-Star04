@@ -2,7 +2,7 @@
 
 ### About me
 
-#### Welcome to my website! My name is WaDe, I'm 17 years old, a student from <img src="./tw.png">**Taiwan**.
+#### Welcome to my website! My name is Night Star, I'm 17 years old, a student from <img src="./tw.png">**Taiwan**.
 
 - 🔭 I’m currently working on Single-chip microcomputer sensor data is displayed on the web page
 - 🌱 I’m currently learning React.js, Express.js... Web development and single-chip microcomputer development and design
