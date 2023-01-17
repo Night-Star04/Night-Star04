@@ -1,11 +1,11 @@
-## Hi there, I'm [WaDe](https://github.com/wen648) 👋
+## Hi there, I'm [Night Star](https://github.com/Night-Star04) 👋
 
 ### About me
 
 #### Welcome to my website! My name is WaDe, I'm 17 years old, a student from <img src="./tw.png">**Taiwan**.
 
-- 🔭 I’m currently working on Discord.js
-- 🌱 I’m currently learning Discord.js
+- 🔭 I’m currently working on Single-chip microcomputer sensor data is displayed on the web page
+- 🌱 I’m currently learning React.js, Express.js... Web development and single-chip microcomputer development and design
 - 📫 How to reach me: [Email](mailto:wen18842254@gmail.com)
 - 🤔 I’m looking for help with JavaScript
 
