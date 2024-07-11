@@ -103,7 +103,7 @@
 <p>
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=night-star04&show_icons=true&locale=en&layout=compact&theme=transparent"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=night-star04&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true"
     alt="night-star04"
   />
 </p>
@@ -111,7 +111,7 @@
 <p>
   &nbsp;<img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=night-star04&show_icons=true&locale=en&theme=transparent&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=night-star04&show_icons=true&locale=en&theme=transparent&hide_border=true&count_private=true"
     alt="night-star04"
   />
 </p>
@@ -119,7 +119,7 @@
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img
-      src="https://github-profile-trophy.vercel.app/?username=night-star04"
+      src="https://github-profile-trophy.vercel.app/?username=night-star04&no-bg=true&no-frame=true&margin-w=5&column=-1"
       alt="night-star04"
     />
   </a>
@@ -127,7 +127,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=night-star04&theme=dark"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=night-star04&theme=transparent&hide_border=true"
     alt="night-star04"
   />
 </p>
