@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Night Star</h1>
 <h3 align="center">A Taiwanese<img src="./tw.png"> college student who enjoys programming.</h3>
 
-- 🌱 I’m currently learning **Next.js, .NET, Python, and Arduino, among others.** 
+- 🌱 I’m currently learning **Next.js, .NET, Python, and Arduino, among others.**
 - 👨‍💻 All of my projects are available at [Night-Star](https://github.com/Night-Star04) or [NightSky Studio](https://github.com/NightSky-Studio)
-- 📫 How to reach me **[hw050406@gmail.com](mailto:wen18842254@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
