@@ -22,7 +22,7 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="44" alt="VS Code" /> <img src="https://skillicons.dev/icons?i=git" height="44" alt="Git" /> <img src="https://skillicons.dev/icons?i=github" height="44" alt="GitHub" />
 </div>
 
-## 📊 My Dev Metrics
+<details><summary><h2>📊 My Dev Metrics</h2></summary>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-406%20hrs%2013%20mins-blue)
@@ -102,9 +102,9 @@ CSS                      1 repo              █░░░░░░░░░░�
 
  Last Updated on 18/11/2024 08:17:29 UTC
 <!--END_SECTION:waka-->
+</details>
 
-## 📈 GitHub Stats
-
+<details><summary><h2>📈 GitHub Stats</h2></summary>
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=night-star04&show_icons=true&locale=en&theme=github_dark_dimmed&hide_border=true&count_private=true" alt="night-star04"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=night-star04&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed&hide_border=true" alt="night-star04"  />
@@ -115,6 +115,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 <div align="center">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=night-star04&no-bg=true&no-frame=true&margin-w=5&column=-1&theme=dark_lover" alt="night-star04" />
 </div>
+</details>
 
 ## 🚀 My Projects
 
