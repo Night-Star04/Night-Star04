@@ -113,12 +113,6 @@ Windows                  24 hrs 16 mins      ███████████�
   </a>
 </div>
 
-## Recent Activity
-
-- ⭐ Published release [v4.3.0](https://github.com/Night-Star04/vscode-fluent-ui/releases/tag/v4.3.0) for vscode-fluent-ui.
-- 🔧 Updated the vscode-fluent-ui repository with various bug fixes and enhancements.
-- 📦 Pushed several commits related to feature updates and improvements on the vscode-fluent-ui project.
-
 ## 📫 Connect with me
 
 <div align="center">
