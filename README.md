@@ -25,7 +25,7 @@
 <details><summary><h2>📊 My Dev Metrics</h2></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-575%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-579%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -90,7 +90,7 @@ Windows                  20 hrs 50 mins      ███████████�
 ```
 
 
- Last Updated on 07/01/2025 16:40:25 UTC
+ Last Updated on 08/01/2025 16:29:29 UTC
 <!--END_SECTION:waka-->
 </details>
 
