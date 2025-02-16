@@ -25,15 +25,13 @@
 <details><summary><h2>📊 My Dev Metrics</h2></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-719%20hrs%2045%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 142.3 kB Used in GitHub's Storage 
  > 
-> 🏆 72 Contributions in the Year 2025
+> 🏆 77 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -42,7 +40,7 @@
 > 🔑 33 Private Repositories 
  > 
 
- Last Updated on 14/02/2025 16:27:18 UTC
+ Last Updated on 16/02/2025 16:40:31 UTC
 <!--END_SECTION:waka-->
 </details>
 
