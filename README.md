@@ -25,7 +25,7 @@
 <details><summary><h2>📊 My Dev Metrics</h2></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C921%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C927%20hrs%2022%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -41,48 +41,8 @@
  > 
 > 🔑 36 Private Repositories 
  > 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                2239 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-🌆 Daytime                6466 commits        ██████████░░░░░░░░░░░░░░░   40.83 % 
-🌃 Evening                5612 commits        █████████░░░░░░░░░░░░░░░░   35.43 % 
-🌙 Night                  1521 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   2830 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
-Tuesday                  2335 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-Wednesday                2618 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-Thursday                 2307 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-Friday                   2610 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-Saturday                 1791 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-Sunday                   1347 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Taipei
-
-💬 Programming Languages: 
-TypeScript               6 hrs 5 mins        ███████████████░░░░░░░░░░   61.97 % 
-SQL                      1 hr 58 mins        █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
-JavaScript               46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-Other                    38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-
-🔥 Editors: 
-VS Code                  9 hrs 50 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  9 hrs 50 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 09/03/2026 17:05:05 UTC
+ Last Updated on 10/03/2026 17:05:14 UTC
 <!--END_SECTION:waka-->
 </details>
 
