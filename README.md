@@ -31,7 +31,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 217.9 kB Used in GitHub's Storage 
+> 📦 218.3 kB Used in GitHub's Storage 
  > 
 > 🏆 115 Contributions in the Year 2026
  > 
@@ -41,8 +41,49 @@
  > 
 > 🔑 36 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 26/03/2026 17:14:03 UTC
+```text
+🌞 Morning                2562 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+🌆 Daytime                7841 commits        ██████████░░░░░░░░░░░░░░░   41.29 % 
+🌃 Evening                6730 commits        █████████░░░░░░░░░░░░░░░░   35.44 % 
+🌙 Night                  1859 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   3309 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
+Tuesday                  2794 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Wednesday                3087 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+Thursday                 2810 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+Friday                   3177 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
+Saturday                 2165 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+Sunday                   1650 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+TypeScript               8 hrs 25 mins       ████████████████░░░░░░░░░   64.57 % 
+Markdown                 2 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
+JSON                     1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+HTML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+
+🔥 Editors: 
+VS Code                  12 hrs 51 mins      █████████████████████████   98.59 % 
+Word                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+
+💻 Operating System: 
+Windows                  13 hrs 2 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 27/03/2026 17:04:07 UTC
 <!--END_SECTION:waka-->
 </details>
 
