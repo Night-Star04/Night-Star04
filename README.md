@@ -25,7 +25,7 @@
 <details><summary><h2>📊 My Dev Metrics</h2></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C986%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C989%20hrs%2029%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -33,7 +33,7 @@
 
 > 📦 218.8 kB Used in GitHub's Storage 
  > 
-> 🏆 116 Contributions in the Year 2026
+> 🏆 118 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -41,48 +41,8 @@
  > 
 > 🔑 36 Private Repositories 
  > 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                2612 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-🌆 Daytime                8051 commits        ██████████░░░░░░░░░░░░░░░   41.30 % 
-🌃 Evening                6909 commits        █████████░░░░░░░░░░░░░░░░   35.44 % 
-🌙 Night                  1924 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   3384 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
-Tuesday                  2873 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-Wednesday                3164 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
-Thursday                 2885 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-Friday                   3262 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
-Saturday                 2225 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-Sunday                   1703 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Taipei
-
-💬 Programming Languages: 
-TypeScript               19 hrs 11 mins      █████████████████████████   99.30 % 
-Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
-HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔥 Editors: 
-VS Code                  19 hrs 19 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  19 hrs 19 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 01/04/2026 17:07:06 UTC
+ Last Updated on 02/04/2026 17:07:33 UTC
 <!--END_SECTION:waka-->
 </details>
 
