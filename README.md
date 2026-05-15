@@ -25,8 +25,6 @@
 <details><summary><h2>📊 My Dev Metrics</h2></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C103%20hrs%2058%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -41,53 +39,8 @@
  > 
 > 🔑 36 Private Repositories 
  > 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                1869 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-🌆 Daytime                5211 commits        ██████████░░░░░░░░░░░░░░░   41.47 % 
-🌃 Evening                4216 commits        ████████░░░░░░░░░░░░░░░░░   33.55 % 
-🌙 Night                  1270 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   2380 commits        █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
-Tuesday                  1863 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-Wednesday                2015 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
-Thursday                 1843 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-Friday                   2072 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-Saturday                 1376 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-Sunday                   1017 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Taipei
-
-💬 Programming Languages: 
-Other                    12 hrs 56 mins      ████████████░░░░░░░░░░░░░   48.68 % 
-TypeScript               9 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   36.94 % 
-Markdown                 2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
-Python                   45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-JSON                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-
-🔥 Editors: 
-VS Code                  13 hrs 29 mins      █████████████░░░░░░░░░░░░   50.77 % 
-Word                     10 hrs 15 mins      ██████████░░░░░░░░░░░░░░░   38.57 % 
-PowerPoint               1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-OpenCode                 52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
-
-💻 Operating System: 
-Windows                  13 hrs 16 mins      ████████████░░░░░░░░░░░░░   49.93 % 
-WSL                      13 hrs 12 mins      ████████████░░░░░░░░░░░░░   49.72 % 
-Linux                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-```
-
-
- Last Updated on 14/05/2026 18:02:09 UTC
+ Last Updated on 15/05/2026 17:50:24 UTC
 <!--END_SECTION:waka-->
 </details>
 
