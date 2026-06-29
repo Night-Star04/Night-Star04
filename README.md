@@ -41,52 +41,8 @@
  > 
 > 🔑 36 Private Repositories 
  > 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                1917 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
-🌆 Daytime                5536 commits        ██████████░░░░░░░░░░░░░░░   41.29 % 
-🌃 Evening                4490 commits        ████████░░░░░░░░░░░░░░░░░   33.49 % 
-🌙 Night                  1465 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   2487 commits        █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
-Tuesday                  2031 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-Wednesday                2096 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
-Thursday                 1964 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
-Friday                   2238 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
-Saturday                 1465 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-Sunday                   1127 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Taipei
-
-💬 Programming Languages: 
-TypeScript               10 hrs 34 mins      ████████████████░░░░░░░░░   62.65 % 
-Other                    4 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   27.20 % 
-Markdown                 1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-
-🔥 Editors: 
-VS Code                  10 hrs 3 mins       ███████████████░░░░░░░░░░   59.58 % 
-Word                     4 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   26.64 % 
-OpenCode                 2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-Opencode Cli             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-
-💻 Operating System: 
-WSL                      12 hrs 23 mins      ██████████████████░░░░░░░   73.36 % 
-Windows                  4 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   26.64 % 
-```
-
-
- Last Updated on 28/06/2026 17:21:52 UTC
+ Last Updated on 29/06/2026 18:15:01 UTC
 <!--END_SECTION:waka-->
 </details>
 
