@@ -41,51 +41,8 @@
  > 
 > 🔑 36 Private Repositories 
  > 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                2070 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-🌆 Daytime                5853 commits        ██████████░░░░░░░░░░░░░░░   41.23 % 
-🌃 Evening                4769 commits        ████████░░░░░░░░░░░░░░░░░   33.59 % 
-🌙 Night                  1504 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   2631 commits        █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
-Tuesday                  2158 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
-Wednesday                2223 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-Thursday                 2086 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-Friday                   2333 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-Saturday                 1568 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-Sunday                   1197 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Taipei
-
-💬 Programming Languages: 
-TypeScript               9 hrs 58 mins       ███████████████████████░░   92.66 % 
-Other                    45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-
-🔥 Editors: 
-VS Code                  9 hrs 56 mins       ███████████████████████░░   92.34 % 
-PowerPoint               35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-Word                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-OpenCode                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-
-💻 Operating System: 
-WSL                      10 hrs              ███████████████████████░░   93.01 % 
-Windows                  45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-```
-
-
- Last Updated on 04/07/2026 17:15:32 UTC
+ Last Updated on 05/07/2026 17:20:51 UTC
 <!--END_SECTION:waka-->
 </details>
 
