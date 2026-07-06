@@ -31,9 +31,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 218.7 kB Used in GitHub's Storage 
+> 📦 217.7 kB Used in GitHub's Storage 
  > 
-> 🏆 190 Contributions in the Year 2026
+> 🏆 194 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -41,8 +41,49 @@
  > 
 > 🔑 36 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 05/07/2026 17:20:51 UTC
+```text
+🌞 Morning                2071 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+🌆 Daytime                5856 commits        ██████████░░░░░░░░░░░░░░░   41.24 % 
+🌃 Evening                4769 commits        ████████░░░░░░░░░░░░░░░░░   33.58 % 
+🌙 Night                  1504 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   2632 commits        █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
+Tuesday                  2159 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+Wednesday                2224 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+Thursday                 2086 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+Friday                   2334 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+Saturday                 1568 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+Sunday                   1197 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+TypeScript               9 hrs 48 mins       ███████████████████████░░   92.84 % 
+Other                    45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+
+🔥 Editors: 
+VS Code                  9 hrs 44 mins       ███████████████████████░░   92.23 % 
+PowerPoint               35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+Word                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+OpenCode                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+
+💻 Operating System: 
+WSL                      9 hrs 48 mins       ███████████████████████░░   92.88 % 
+Windows                  45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+```
+
+
+ Last Updated on 06/07/2026 18:18:21 UTC
 <!--END_SECTION:waka-->
 </details>
 
