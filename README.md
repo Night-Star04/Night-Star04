@@ -25,15 +25,15 @@
 <details><summary><h2>📊 My Dev Metrics</h2></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C126%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C128%20hrs%2026%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-71%20hrs%2036%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-72%20hrs%2018%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 219.1 kB Used in GitHub's Storage 
+> 📦 219.3 kB Used in GitHub's Storage 
  > 
 > 🏆 225 Contributions in the Year 2026
  > 
@@ -43,8 +43,75 @@
  > 
 > 🔑 36 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 31/07/2026 17:49:57 UTC
+```text
+🌞 Morning                2336 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+🌆 Daytime                7016 commits        ██████████░░░░░░░░░░░░░░░   41.79 % 
+🌃 Evening                5563 commits        ████████░░░░░░░░░░░░░░░░░   33.13 % 
+🌙 Night                  1874 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   3033 commits        █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
+Tuesday                  2597 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+Wednesday                2629 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+Thursday                 2473 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+Friday                   2750 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+Saturday                 1859 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+Sunday                   1448 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+TypeScript               7 hrs 41 mins       █████████████░░░░░░░░░░░░   50.35 % 
+Markdown                 5 hrs 14 mins       █████████░░░░░░░░░░░░░░░░   34.33 % 
+JSON                     56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+SQL                      50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+YAML                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+
+🔥 Editors: 
+VS Code                  11 hrs 29 mins      ███████████████████░░░░░░   75.20 % 
+OpenCode                 2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+Opencode Cli             1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+
+💻 Operating System: 
+WSL                      15 hrs 16 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 5 hrs 50 mins (38.2%)
+
+✍️ 3,507 lines written by AI, 702 lines written by hand (83.32% AI-written)
+
+🔤 1,939,003 Input Tokens, 151,993 Output Tokens
+
+💵 $9.26 Estimated AI Cost This Week
+
+🧠 42 AI Sessions, 87 AI Prompts
+
+Deepseek                 1,998 lines         ███████████████░░░░░░░░░░   58.22 % 
+GPT                      1,230 lines         █████████░░░░░░░░░░░░░░░░   35.84 % 
+Opencode-Cli             204 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 83.32% of written lines came from AI
+📄 Detailed Prompter — average 1,232 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 27.32% of changed lines were hand-edited
+```
+
+
+ Last Updated on 01/08/2026 17:09:40 UTC
 <!--END_SECTION:waka-->
 </details>
 
