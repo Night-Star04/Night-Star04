@@ -25,17 +25,17 @@
 <details><summary><h2>📊 My Dev Metrics</h2></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C188%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C196%20hrs%2027%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-98%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-102%20hrs-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 220.5 kB Used in GitHub's Storage 
+> 📦 220.6 kB Used in GitHub's Storage 
  > 
-> 🏆 246 Contributions in the Year 2026
+> 🏆 247 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -49,7 +49,7 @@
 🌞 Morning                2519 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
 🌆 Daytime                7861 commits        ███████████░░░░░░░░░░░░░░   42.10 % 
 🌃 Evening                6156 commits        ████████░░░░░░░░░░░░░░░░░   32.97 % 
-🌙 Night                  2136 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+🌙 Night                  2137 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
@@ -58,7 +58,7 @@ Monday                   3327 commits        ████░░░░░░░�
 Tuesday                  2910 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
 Wednesday                2922 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
 Thursday                 2748 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
-Friday                   3061 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+Friday                   3062 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
 Saturday                 2082 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
 Sunday                   1622 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
 ```
@@ -70,46 +70,46 @@ Sunday                   1622 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-TypeScript               13 hrs 16 mins      ██████████████░░░░░░░░░░░   55.53 % 
-SQL                      6 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   27.53 % 
-Markdown                 2 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
-YAML                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
-JSON                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+TypeScript               18 hrs 51 mins      ███████████████████░░░░░░   75.44 % 
+SQL                      3 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+Markdown                 1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+JSON                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 57 mins      █████████████████░░░░░░░░   66.74 % 
-Opencode Cli             7 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   32.83 % 
-OpenCode                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+VS Code                  18 hrs 34 mins      ███████████████████░░░░░░   74.01 % 
+Opencode Cli             6 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   25.90 % 
+OpenCode                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 💻 Operating System: 
-WSL                      23 hrs 54 mins      █████████████████████████   100.00 % 
+WSL                      24 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 5 mins (38.03%)
+⏱ AI Coding Time: 7 hrs 41 mins (30.79%)
 
-✍️ 3,191 lines written by AI, 2,164 lines written by hand (59.59% AI-written)
+✍️ 2,962 lines written by AI, 3,353 lines written by hand (46.9% AI-written)
 
-🔤 8,938,822 Input Tokens, 964,242 Output Tokens
+🔤 9,471,068 Input Tokens, 697,287 Output Tokens
 
-💵 $55.44 Estimated AI Cost This Week
+💵 $91.64 Estimated AI Cost This Week
 
-🧠 35 AI Sessions, 56 AI Prompts
+🧠 54 AI Sessions, 77 AI Prompts
 
-GPT                      4,309 lines         █████████████████████████   100.00 % 
+GPT                      4,578 lines         █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 59.59% of written lines came from AI
-📝 Concise Prompter — average 337 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 71.04% of changed lines were hand-edited
+⚖️ Balanced with AI — 46.9% of written lines came from AI
+📝 Concise Prompter — average 396 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 76.64% of changed lines were hand-edited
 ```
 
 
- Last Updated on 20/08/2026 16:45:22 UTC
+ Last Updated on 21/08/2026 16:45:01 UTC
 <!--END_SECTION:waka-->
 </details>
 
