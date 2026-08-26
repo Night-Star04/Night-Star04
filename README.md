@@ -70,46 +70,46 @@ Sunday                   1448 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-TypeScript               13 hrs 17 mins      ██████████████████░░░░░░░   71.76 % 
-SQL                      1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-JSON                     1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-Markdown                 1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
-Other                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+TypeScript               10 hrs 55 mins      █████████████████░░░░░░░░   69.00 % 
+SQL                      1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+Markdown                 1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+JSON                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+Other                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 4 mins       ██████████████████░░░░░░░   70.55 % 
-Opencode Cli             5 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   29.15 % 
-OpenCode                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+VS Code                  10 hrs 26 mins      ████████████████░░░░░░░░░   65.97 % 
+Opencode Cli             5 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   33.68 % 
+OpenCode                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 💻 Operating System: 
-WSL                      18 hrs 31 mins      █████████████████████████   100.00 % 
+WSL                      15 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 17 mins (33.95%)
+⏱ AI Coding Time: 6 hrs 12 mins (39.21%)
 
-✍️ 3,919 lines written by AI, 2,682 lines written by hand (59.37% AI-written)
+✍️ 3,919 lines written by AI, 2,553 lines written by hand (60.55% AI-written)
 
-🔤 5,911,733 Input Tokens, 541,151 Output Tokens
+🔤 5,640,528 Input Tokens, 534,619 Output Tokens
 
-💵 $86.94 Estimated AI Cost This Week
+💵 $86.01 Estimated AI Cost This Week
 
-🧠 51 AI Sessions, 69 AI Prompts
+🧠 50 AI Sessions, 67 AI Prompts
 
 GPT                      4,866 lines         █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 59.37% of written lines came from AI
-📄 Detailed Prompter — average 501 characters per prompt
+⚖️ Balanced with AI — 60.55% of written lines came from AI
+📄 Detailed Prompter — average 513 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 53.98% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 51.96% of changed lines were hand-edited
 ```
 
 
- Last Updated on 25/08/2026 16:46:44 UTC
+ Last Updated on 26/08/2026 16:56:15 UTC
 <!--END_SECTION:waka-->
 </details>
 
