@@ -25,6 +25,10 @@
 <details><summary><h2>📊 My Dev Metrics</h2></summary>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C214%20hrs%2012%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-110%20hrs%2040%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -40,7 +44,7 @@
 > 🔑 36 Private Repositories 
  > 
 
- Last Updated on 31/08/2026 16:33:21 UTC
+ Last Updated on 31/08/2026 21:27:40 UTC
 <!--END_SECTION:waka-->
 </details>
 
