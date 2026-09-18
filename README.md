@@ -25,9 +25,9 @@
 <details><summary><h2>📊 My Dev Metrics</h2></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C243%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C244%20hrs%2021%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-123%20hrs%2016%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-123%20hrs%2041%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -70,49 +70,49 @@ Sunday                   1566 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Python                   12 hrs 30 mins      ██████████████░░░░░░░░░░░   55.29 % 
-Markdown                 4 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
-Other                    2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-TOML                     1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-C                        45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Python                   12 hrs 49 mins      ███████████████░░░░░░░░░░   58.59 % 
+Markdown                 3 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+Other                    2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+TOML                     1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
+C                        45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 18 mins      ████████████████░░░░░░░░░   63.25 % 
-Opencode Cli             3 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
-Word                     2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
-OpenCode                 1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
-Codex Vscode             25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+VS Code                  14 hrs 5 mins       ████████████████░░░░░░░░░   64.40 % 
+Opencode Cli             3 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+Word                     2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+OpenCode                 1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+Codex Vscode             25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 
 💻 Operating System: 
-Windows                  13 hrs 25 mins      ███████████████░░░░░░░░░░   59.41 % 
-WSL                      9 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   40.59 % 
+Windows                  13 hrs 27 mins      ███████████████░░░░░░░░░░   61.53 % 
+WSL                      8 hrs 25 mins       ██████████░░░░░░░░░░░░░░░   38.47 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 54 mins (30.58%)
+⏱ AI Coding Time: 6 hrs 9 mins (28.13%)
 
-✍️ 8,735 lines written by AI, 6,164 lines written by hand (58.63% AI-written)
+✍️ 8,865 lines written by AI, 6,163 lines written by hand (58.99% AI-written)
 
-🔤 2,940,585 Input Tokens, 393,721 Output Tokens
+🔤 2,836,876 Input Tokens, 382,566 Output Tokens
 
-💵 $31.28 Estimated AI Cost This Week
+💵 $29.63 Estimated AI Cost This Week
 
-🧠 29 AI Sessions, 62 AI Prompts
+🧠 32 AI Sessions, 66 AI Prompts
 
-GPT                      8,751 lines         █████████████████████████   100.00 % 
+GPT                      8,881 lines         █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 58.63% of written lines came from AI
-📝 Concise Prompter — average 136 characters per prompt
+⚖️ Balanced with AI — 58.99% of written lines came from AI
+📝 Concise Prompter — average 139 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 64.3% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 63.91% of changed lines were hand-edited
 ```
 
 
- Last Updated on 17/09/2026 19:44:05 UTC
+ Last Updated on 18/09/2026 19:02:36 UTC
 <!--END_SECTION:waka-->
 </details>
 
