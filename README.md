@@ -70,49 +70,49 @@ Sunday                   1566 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Python                   12 hrs 49 mins      ███████████████░░░░░░░░░░   58.59 % 
-Markdown                 3 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-Other                    2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
-TOML                     1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
-C                        45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+Python                   8 hrs 31 mins       █████████████░░░░░░░░░░░░   51.90 % 
+Markdown                 3 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
+Other                    2 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+TOML                     1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+CSV                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 5 mins       ████████████████░░░░░░░░░   64.40 % 
-Opencode Cli             3 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
-Word                     2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-OpenCode                 1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-Codex Vscode             25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+VS Code                  9 hrs 11 mins       ██████████████░░░░░░░░░░░   55.97 % 
+Opencode Cli             3 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
+Word                     2 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+OpenCode                 1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
+Codex Vscode             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 💻 Operating System: 
-Windows                  13 hrs 27 mins      ███████████████░░░░░░░░░░   61.53 % 
-WSL                      8 hrs 25 mins       ██████████░░░░░░░░░░░░░░░   38.47 % 
+Windows                  8 hrs 13 mins       █████████████░░░░░░░░░░░░   50.07 % 
+WSL                      8 hrs 12 mins       ████████████░░░░░░░░░░░░░   49.93 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 9 mins (28.13%)
+⏱ AI Coding Time: 5 hrs 36 mins (34.09%)
 
-✍️ 8,865 lines written by AI, 6,163 lines written by hand (58.99% AI-written)
+✍️ 8,684 lines written by AI, 5,535 lines written by hand (61.07% AI-written)
 
-🔤 2,836,876 Input Tokens, 382,566 Output Tokens
+🔤 2,555,609 Input Tokens, 362,472 Output Tokens
 
-💵 $29.63 Estimated AI Cost This Week
+💵 $27.64 Estimated AI Cost This Week
 
-🧠 32 AI Sessions, 66 AI Prompts
+🧠 28 AI Sessions, 58 AI Prompts
 
-GPT                      8,881 lines         █████████████████████████   100.00 % 
+GPT                      8,700 lines         █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 58.99% of written lines came from AI
-📝 Concise Prompter — average 139 characters per prompt
+⚖️ Balanced with AI — 61.07% of written lines came from AI
+📝 Concise Prompter — average 109 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 63.91% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 63.24% of changed lines were hand-edited
 ```
 
 
- Last Updated on 18/09/2026 19:02:36 UTC
+ Last Updated on 19/09/2026 18:35:55 UTC
 <!--END_SECTION:waka-->
 </details>
 
