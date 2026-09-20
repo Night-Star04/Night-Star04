@@ -25,9 +25,9 @@
 <details><summary><h2>📊 My Dev Metrics</h2></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C244%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C246%20hrs%2016%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-123%20hrs%2041%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-124%20hrs%2042%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -70,49 +70,48 @@ Sunday                   1566 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Python                   8 hrs 31 mins       █████████████░░░░░░░░░░░░   51.90 % 
-Markdown                 3 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
-Other                    2 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-TOML                     1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-CSV                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Python                   3 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   36.96 % 
+Other                    2 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   27.18 % 
+Markdown                 1 hr 52 mins        █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
+TOML                     1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+Git Config               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 11 mins       ██████████████░░░░░░░░░░░   55.97 % 
-Opencode Cli             3 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
-Word                     2 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
-OpenCode                 1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
-Codex Vscode             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+VS Code                  3 hrs 47 mins       ██████████░░░░░░░░░░░░░░░   41.12 % 
+Word                     2 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
+Opencode Cli             2 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
+OpenCode                 43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+Codex Vscode             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 💻 Operating System: 
-Windows                  8 hrs 13 mins       █████████████░░░░░░░░░░░░   50.07 % 
-WSL                      8 hrs 12 mins       ████████████░░░░░░░░░░░░░   49.93 % 
+Windows                  5 hrs 56 mins       ████████████████░░░░░░░░░   64.42 % 
+WSL                      3 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   35.58 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 36 mins (34.09%)
+⏱ AI Coding Time: 3 hrs 15 mins (35.33%)
 
-✍️ 8,684 lines written by AI, 5,535 lines written by hand (61.07% AI-written)
+✍️ 5,455 lines written by AI, 182 lines written by hand (96.77% AI-written)
 
-🔤 2,555,609 Input Tokens, 362,472 Output Tokens
+🔤 1,886,638 Input Tokens, 206,164 Output Tokens
 
-💵 $27.64 Estimated AI Cost This Week
+💵 $19.04 Estimated AI Cost This Week
 
-🧠 28 AI Sessions, 58 AI Prompts
+🧠 20 AI Sessions, 35 AI Prompts
 
-GPT                      8,700 lines         █████████████████████████   100.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      5,463 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 61.07% of written lines came from AI
-📝 Concise Prompter — average 109 characters per prompt
+🤖 AI-Driven — 96.77% of written lines came from AI
+📝 Concise Prompter — average 116 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 63.24% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 57.9% of changed lines were hand-edited
 ```
 
 
- Last Updated on 19/09/2026 18:35:55 UTC
+ Last Updated on 20/09/2026 18:41:07 UTC
 <!--END_SECTION:waka-->
 </details>
 
