@@ -33,7 +33,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 219.2 kB Used in GitHub's Storage 
+> 📦 219.4 kB Used in GitHub's Storage 
  > 
 > 🏆 278 Contributions in the Year 2026
  > 
@@ -46,21 +46,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2585 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-🌆 Daytime                8400 commits        ███████████░░░░░░░░░░░░░░   42.53 % 
-🌃 Evening                6422 commits        ████████░░░░░░░░░░░░░░░░░   32.51 % 
-🌙 Night                  2346 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+🌞 Morning                2646 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+🌆 Daytime                8715 commits        ███████████░░░░░░░░░░░░░░   42.63 % 
+🌃 Evening                6630 commits        ████████░░░░░░░░░░░░░░░░░   32.43 % 
+🌙 Night                  2451 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   3509 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
-Tuesday                  3077 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-Wednesday                3073 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-Thursday                 2877 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-Friday                   3266 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-Saturday                 2217 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
-Sunday                   1734 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+Monday                   3617 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
+Tuesday                  3190 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
+Wednesday                3176 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+Thursday                 2975 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+Friday                   3384 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+Saturday                 2299 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+Sunday                   1801 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
 ```
 
 
@@ -70,27 +70,27 @@ Sunday                   1734 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-TypeScript               6 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   33.91 % 
-Other                    4 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
-Markdown                 2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-SQL                      1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
-JSON                     1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+TypeScript               6 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   33.34 % 
+Other                    4 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Markdown                 2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+SQL                      1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+JSON                     1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
 
 🔥 Editors: 
-Opencode Cli             7 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   39.31 % 
-VS Code                  6 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   37.06 % 
-Word                     4 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
+Opencode Cli             7 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   38.65 % 
+VS Code                  6 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   36.44 % 
+Word                     4 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
 OpenCode                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-WSL                      14 hrs 14 mins      ███████████████████░░░░░░   76.28 % 
-Windows                  4 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
+WSL                      14 hrs 14 mins      ███████████████████░░░░░░   75.00 % 
+Windows                  4 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 17 mins (55.11%)
+⏱ AI Coding Time: 10 hrs 17 mins (54.19%)
 
 ✍️ 2,886 lines written by AI, 467 lines written by hand (86.07% AI-written)
 
@@ -111,7 +111,7 @@ Opencode-Cli             0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 03/10/2026 19:12:38 UTC
+ Last Updated on 04/10/2026 19:26:36 UTC
 <!--END_SECTION:waka-->
 </details>
 
