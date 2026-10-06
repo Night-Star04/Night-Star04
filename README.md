@@ -33,7 +33,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 219.7 kB Used in GitHub's Storage 
+> 📦 219.9 kB Used in GitHub's Storage 
  > 
 > 🏆 278 Contributions in the Year 2026
  > 
@@ -70,48 +70,47 @@ Sunday                   1801 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-TypeScript               6 hrs 7 mins        ████████████░░░░░░░░░░░░░   49.06 % 
-Other                    4 hrs 44 mins       ██████████░░░░░░░░░░░░░░░   38.05 % 
-Markdown                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
-JavaScript               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-SQL                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+Other                    10 hrs 28 mins      ██████████████████░░░░░░░   73.60 % 
+TypeScript               3 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
+SQL                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-Opencode Cli             5 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   40.42 % 
-Word                     4 hrs 44 mins       █████████░░░░░░░░░░░░░░░░   37.85 % 
-VS Code                  2 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
-OpenCode                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Word                     10 hrs 28 mins      ██████████████████░░░░░░░   73.17 % 
+VS Code                  2 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+Opencode Cli             1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
 
 💻 Operating System: 
-WSL                      7 hrs 43 mins       ███████████████░░░░░░░░░░   61.95 % 
-Windows                  4 hrs 44 mins       ██████████░░░░░░░░░░░░░░░   38.05 % 
+Windows                  10 hrs 28 mins      ██████████████████░░░░░░░   73.60 % 
+WSL                      3 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   26.40 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 52 mins (47.11%)
+⏱ AI Coding Time: 2 hrs 5 mins (14.68%)
 
-✍️ 2,368 lines written by AI, 348 lines written by hand (87.19% AI-written)
+✍️ 803 lines written by AI, 440 lines written by hand (64.6% AI-written)
 
-🔤 3,273,293 Input Tokens, 231,172 Output Tokens
+🔤 1,216,868 Input Tokens, 78,941 Output Tokens
 
-💵 $103.53 Estimated AI Cost This Week
+💵 $79.17 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 19 AI Prompts
+🧠 2 AI Sessions, 9 AI Prompts
 
-GPT                      13,357 lines        █████████████████████████   100.00 % 
+GPT                      903 lines           █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 87.19% of written lines came from AI
-📝 Concise Prompter — average 261 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 5.22% of changed lines were hand-edited
+⚖️ Balanced with AI — 64.6% of written lines came from AI
+📝 Concise Prompter — average 115 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 47.83% of changed lines were hand-edited
 ```
 
 
- Last Updated on 05/10/2026 22:31:14 UTC
+ Last Updated on 06/10/2026 20:59:24 UTC
 <!--END_SECTION:waka-->
 </details>
 
