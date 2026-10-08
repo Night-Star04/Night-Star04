@@ -33,7 +33,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 219.9 kB Used in GitHub's Storage 
+> 📦 220.1 kB Used in GitHub's Storage 
  > 
 > 🏆 278 Contributions in the Year 2026
  > 
@@ -43,8 +43,73 @@
  > 
 > 🔑 38 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 07/10/2026 21:13:55 UTC
+```text
+🌞 Morning                2707 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+🌆 Daytime                8999 commits        ███████████░░░░░░░░░░░░░░   42.69 % 
+🌃 Evening                6828 commits        ████████░░░░░░░░░░░░░░░░░   32.39 % 
+🌙 Night                  2544 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   3717 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
+Tuesday                  3295 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
+Wednesday                3271 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+Thursday                 3067 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+Friday                   3491 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+Saturday                 2374 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+Sunday                   1863 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+Other                    12 hrs 36 mins      ██████████████████████░░░   87.51 % 
+TypeScript               1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
+SQL                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+
+🔥 Editors: 
+Word                     12 hrs 36 mins      ██████████████████████░░░   87.51 % 
+VS Code                  56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+Opencode Cli             51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+OpenCode                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+💻 Operating System: 
+Windows                  12 hrs 36 mins      ██████████████████████░░░   87.51 % 
+WSL                      1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 1 hr 5 mins (7.58%)
+
+✍️ 51 lines written by AI, 222 lines written by hand (18.68% AI-written)
+
+🔤 521,891 Input Tokens, 31,978 Output Tokens
+
+💵 $3.03 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 5 AI Prompts
+
+GPT                      51 lines            █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 18.68% of written lines came from AI
+📝 Concise Prompter — average 190 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 84.96% of changed lines were hand-edited
+```
+
+
+ Last Updated on 08/10/2026 21:17:24 UTC
 <!--END_SECTION:waka-->
 </details>
 
