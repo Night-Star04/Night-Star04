@@ -70,13 +70,13 @@ Sunday                   1863 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    5 hrs 29 mins       █████████████████████████   100.00 % 
+Other                    4 hrs 6 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Word                     5 hrs 29 mins       █████████████████████████   100.00 % 
+Word                     4 hrs 6 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 29 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -86,7 +86,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 13/10/2026 21:12:07 UTC
+ Last Updated on 14/10/2026 20:11:51 UTC
 <!--END_SECTION:waka-->
 </details>
 
