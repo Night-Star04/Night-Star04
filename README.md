@@ -25,7 +25,7 @@
 <details><summary><h2>📊 My Dev Metrics</h2></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C272%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C272%20hrs%2045%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-142%20hrs%2051%20mins-blue?style=flat)
 
@@ -43,50 +43,8 @@
  > 
 > 🔑 38 Private Repositories 
  > 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                2768 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-🌆 Daytime                9298 commits        ███████████░░░░░░░░░░░░░░   42.74 % 
-🌃 Evening                7047 commits        ████████░░░░░░░░░░░░░░░░░   32.39 % 
-🌙 Night                  2644 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   3824 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
-Tuesday                  3400 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
-Wednesday                3366 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-Thursday                 3159 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-Friday                   3598 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
-Saturday                 2450 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-Sunday                   1960 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Taipei
-
-💬 Programming Languages: 
-Other                    4 hrs 18 mins       █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Word                     4 hrs 18 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  4 hrs 18 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-
- Last Updated on 17/10/2026 18:24:25 UTC
+ Last Updated on 18/10/2026 18:36:47 UTC
 <!--END_SECTION:waka-->
 </details>
 
