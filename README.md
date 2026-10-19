@@ -33,7 +33,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 220.8 kB Used in GitHub's Storage 
+> 📦 221.1 kB Used in GitHub's Storage 
  > 
 > 🏆 285 Contributions in the Year 2026
  > 
@@ -43,8 +43,55 @@
  > 
 > 🔑 38 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 18/10/2026 18:36:47 UTC
+```text
+🌞 Morning                2768 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
+🌆 Daytime                9302 commits        ███████████░░░░░░░░░░░░░░   42.73 % 
+🌃 Evening                7053 commits        ████████░░░░░░░░░░░░░░░░░   32.40 % 
+🌙 Night                  2646 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   3826 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
+Tuesday                  3400 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+Wednesday                3366 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+Thursday                 3159 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+Friday                   3598 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+Saturday                 2450 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+Sunday                   1970 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+Other                    1 hr 48 mins        ██████████████████░░░░░░░   73.70 % 
+C                        15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+Python                   12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+
+🔥 Editors: 
+Word                     1 hr 48 mins        ██████████████████░░░░░░░   73.55 % 
+VS Code                  39 mins             ███████░░░░░░░░░░░░░░░░░░   26.45 % 
+
+💻 Operating System: 
+Windows                  2 hrs 27 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+
+ Last Updated on 19/10/2026 21:03:36 UTC
 <!--END_SECTION:waka-->
 </details>
 
