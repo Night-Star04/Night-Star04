@@ -70,18 +70,18 @@ Sunday                   1970 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    1 hr 48 mins        ██████████████████░░░░░░░   73.70 % 
-C                        15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
-Python                   12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
-Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+Other                    1 hr 8 mins         ████████████████░░░░░░░░░   63.92 % 
+C                        15 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+Python                   12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+Markdown                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+Git Config               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
 
 🔥 Editors: 
-Word                     1 hr 48 mins        ██████████████████░░░░░░░   73.55 % 
-VS Code                  39 mins             ███████░░░░░░░░░░░░░░░░░░   26.45 % 
+Word                     1 hr 8 mins         ████████████████░░░░░░░░░   63.71 % 
+VS Code                  39 mins             █████████░░░░░░░░░░░░░░░░   36.29 % 
 
 💻 Operating System: 
-Windows                  2 hrs 27 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 47 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -91,7 +91,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 19/10/2026 21:03:36 UTC
+ Last Updated on 20/10/2026 20:01:52 UTC
 <!--END_SECTION:waka-->
 </details>
 
