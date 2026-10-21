@@ -25,7 +25,7 @@
 <details><summary><h2>📊 My Dev Metrics</h2></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C272%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C273%20hrs%2013%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-142%20hrs%2051%20mins-blue?style=flat)
 
@@ -33,7 +33,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 221.1 kB Used in GitHub's Storage 
+> 📦 221.6 kB Used in GitHub's Storage 
  > 
 > 🏆 285 Contributions in the Year 2026
  > 
@@ -46,21 +46,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2768 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-🌆 Daytime                9302 commits        ███████████░░░░░░░░░░░░░░   42.73 % 
-🌃 Evening                7053 commits        ████████░░░░░░░░░░░░░░░░░   32.40 % 
-🌙 Night                  2646 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+🌞 Morning                2771 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+🌆 Daytime                9354 commits        ███████████░░░░░░░░░░░░░░   42.78 % 
+🌃 Evening                7074 commits        ████████░░░░░░░░░░░░░░░░░   32.35 % 
+🌙 Night                  2665 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   3826 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
-Tuesday                  3400 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-Wednesday                3366 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-Thursday                 3159 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-Friday                   3598 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-Saturday                 2450 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-Sunday                   1970 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+Monday                   3841 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
+Tuesday                  3412 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
+Wednesday                3382 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+Thursday                 3168 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+Friday                   3612 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+Saturday                 2458 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+Sunday                   1991 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
 ```
 
 
@@ -70,18 +70,18 @@ Sunday                   1970 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    1 hr 8 mins         ████████████████░░░░░░░░░   63.92 % 
-C                        15 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-Python                   12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-Markdown                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
-Git Config               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+Python                   34 mins             ███████████░░░░░░░░░░░░░░   44.06 % 
+C                        15 mins             █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
+Markdown                 12 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+Other                    11 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+Git Config               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
 
 🔥 Editors: 
-Word                     1 hr 8 mins         ████████████████░░░░░░░░░   63.71 % 
-VS Code                  39 mins             █████████░░░░░░░░░░░░░░░░   36.29 % 
+VS Code                  1 hr 7 mins         █████████████████████░░░░   85.66 % 
+Word                     11 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
 
 💻 Operating System: 
-Windows                  1 hr 47 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 18 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -91,7 +91,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 20/10/2026 20:01:52 UTC
+ Last Updated on 21/10/2026 20:06:38 UTC
 <!--END_SECTION:waka-->
 </details>
 
