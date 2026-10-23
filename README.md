@@ -25,7 +25,7 @@
 <details><summary><h2>📊 My Dev Metrics</h2></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C273%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C273%20hrs%2017%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-142%20hrs%2051%20mins-blue?style=flat)
 
@@ -70,19 +70,19 @@ Sunday                   1991 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    44 mins             ██████████░░░░░░░░░░░░░░░   39.87 % 
-Python                   34 mins             ████████░░░░░░░░░░░░░░░░░   31.07 % 
-C                        15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-Markdown                 12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-Git Config               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+Other                    2 hrs 14 mins       ████████████████░░░░░░░░░   65.40 % 
+Python                   34 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
+Markdown                 16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+C                        15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 
 🔥 Editors: 
-VS Code                  1 hr 7 mins         ███████████████░░░░░░░░░░   60.40 % 
-PowerPoint               32 mins             ███████░░░░░░░░░░░░░░░░░░   29.48 % 
-Word                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+Word                     1 hr 40 mins        ████████████░░░░░░░░░░░░░   49.19 % 
+VS Code                  1 hr 11 mins        █████████░░░░░░░░░░░░░░░░   34.75 % 
+PowerPoint               32 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
 
 💻 Operating System: 
-Windows                  1 hr 51 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -92,7 +92,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 22/10/2026 19:58:29 UTC
+ Last Updated on 23/10/2026 19:58:08 UTC
 <!--END_SECTION:waka-->
 </details>
 
