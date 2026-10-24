@@ -33,9 +33,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 221.6 kB Used in GitHub's Storage 
+> 📦 219.8 kB Used in GitHub's Storage 
  > 
-> 🏆 285 Contributions in the Year 2026
+> 🏆 289 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -46,21 +46,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2771 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-🌆 Daytime                9354 commits        ███████████░░░░░░░░░░░░░░   42.78 % 
-🌃 Evening                7074 commits        ████████░░░░░░░░░░░░░░░░░   32.35 % 
-🌙 Night                  2665 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+🌞 Morning                2161 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+🌆 Daytime                6504 commits        ███████████░░░░░░░░░░░░░░   42.05 % 
+🌃 Evening                5075 commits        ████████░░░░░░░░░░░░░░░░░   32.81 % 
+🌙 Night                  1728 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   3841 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
-Tuesday                  3412 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
-Wednesday                3382 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-Thursday                 3168 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-Friday                   3612 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
-Saturday                 2458 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-Sunday                   1991 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+Monday                   2834 commits        █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+Tuesday                  2362 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+Wednesday                2432 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+Thursday                 2248 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+Friday                   2542 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+Saturday                 1714 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+Sunday                   1336 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
 ```
 
 
@@ -70,19 +70,19 @@ Sunday                   1991 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    2 hrs 14 mins       ████████████████░░░░░░░░░   65.40 % 
-Python                   34 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
-Markdown                 16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-C                        15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+Other                    3 hrs 22 mins       ██████████████████░░░░░░░   73.99 % 
+Python                   34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
+Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+C                        15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 🔥 Editors: 
-Word                     1 hr 40 mins        ████████████░░░░░░░░░░░░░   49.19 % 
-VS Code                  1 hr 11 mins        █████████░░░░░░░░░░░░░░░░   34.75 % 
-PowerPoint               32 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+Word                     2 hrs 48 mins       ███████████████░░░░░░░░░░   61.81 % 
+VS Code                  1 hr 11 mins        ███████░░░░░░░░░░░░░░░░░░   26.12 % 
+PowerPoint               32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
 
 💻 Operating System: 
-Windows                  3 hrs 25 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -92,7 +92,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 23/10/2026 19:58:08 UTC
+ Last Updated on 24/10/2026 18:45:07 UTC
 <!--END_SECTION:waka-->
 </details>
 
