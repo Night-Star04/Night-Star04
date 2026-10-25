@@ -25,9 +25,9 @@
 <details><summary><h2>📊 My Dev Metrics</h2></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C273%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C275%20hrs%2017%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-142%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-144%20hrs%2020%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -70,29 +70,47 @@ Sunday                   1336 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    3 hrs 22 mins       ██████████████████░░░░░░░   73.99 % 
-Python                   34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-C                        15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Other                    3 hrs 27 mins       ██████████████░░░░░░░░░░░   57.68 % 
+Markdown                 1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
+Python                   26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+JavaScript               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+Bash                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
 
 🔥 Editors: 
-Word                     2 hrs 48 mins       ███████████████░░░░░░░░░░   61.81 % 
-VS Code                  1 hr 11 mins        ███████░░░░░░░░░░░░░░░░░░   26.12 % 
-PowerPoint               32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+Word                     2 hrs 48 mins       ████████████░░░░░░░░░░░░░   46.93 % 
+VS Code                  1 hr 38 mins        ███████░░░░░░░░░░░░░░░░░░   27.45 % 
+Codex Vscode             59 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
+PowerPoint               32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
 
 💻 Operating System: 
-Windows                  4 hrs 33 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 6 mins        █████████████████░░░░░░░░   68.59 % 
+WSL                      1 hr 52 mins        ████████░░░░░░░░░░░░░░░░░   31.41 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 28 mins (24.5%)
+
+✍️ 539 lines written by AI, 14,693 lines written by hand (3.54% AI-written)
+
+🔤 815,170 Input Tokens, 91,831 Output Tokens
+
+💵 $6.34 Estimated AI Cost This Week
+
+🧠 12 AI Sessions, 18 AI Prompts
+
+GPT                      569 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 3.54% of written lines came from AI
+📚 Verbose Prompter — average 5,874 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 96.28% of changed lines were hand-edited
 ```
 
 
- Last Updated on 24/10/2026 18:45:07 UTC
+ Last Updated on 25/10/2026 18:53:25 UTC
 <!--END_SECTION:waka-->
 </details>
 
