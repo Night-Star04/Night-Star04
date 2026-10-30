@@ -70,28 +70,28 @@ Sunday                   1296 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    4 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   41.11 % 
-Markdown                 2 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   24.17 % 
-C                        1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-Python                   51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
-JavaScript               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+Other                    3 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   34.73 % 
+Markdown                 2 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   26.38 % 
+C                        1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+Python                   51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+JavaScript               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
 
 🔥 Editors: 
-Word                     4 hrs 22 mins       ███████████░░░░░░░░░░░░░░   42.80 % 
-VS Code                  4 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   40.92 % 
-Codex Vscode             1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
+VS Code                  4 hrs 7 mins        ███████████░░░░░░░░░░░░░░   45.15 % 
+Word                     3 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   36.63 % 
+Codex Vscode             1 hr 39 mins        █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
 
 💻 Operating System: 
-Windows                  8 hrs 21 mins       ████████████████████░░░░░   81.61 % 
-WSL                      1 hr 52 mins        █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
+Windows                  7 hrs 15 mins       ████████████████████░░░░░   79.40 % 
+WSL                      1 hr 52 mins        █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 39 mins (35.67%)
+⏱ AI Coding Time: 3 hrs 39 mins (39.95%)
 
-✍️ 3,529 lines written by AI, 14,629 lines written by hand (19.43% AI-written)
+✍️ 3,529 lines written by AI, 44 lines written by hand (98.77% AI-written)
 
 🔤 1,674,672 Input Tokens, 240,278 Output Tokens
 
@@ -102,14 +102,14 @@ WSL                      1 hr 52 mins        █████░░░░░░�
 GPT                      3,559 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 19.43% of written lines came from AI
+🤖 AI-Driven — 98.77% of written lines came from AI
 📚 Verbose Prompter — average 3,896 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 80.56% of changed lines were hand-edited
+🚀 High AI Trust — 5.77% of changed lines were hand-edited
 ```
 
 
- Last Updated on 29/10/2026 21:03:14 UTC
+ Last Updated on 30/10/2026 20:40:11 UTC
 <!--END_SECTION:waka-->
 </details>
 
