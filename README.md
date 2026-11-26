@@ -25,9 +25,9 @@
 <details><summary><h2>📊 My Dev Metrics</h2></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C296%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C297%20hrs%2035%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-158%20hrs%2035%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-158%20hrs%2041%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -35,7 +35,7 @@
 
 > 📦 220.0 kB Used in GitHub's Storage 
  > 
-> 🏆 299 Contributions in the Year 2026
+> 🏆 300 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -48,7 +48,7 @@
 ```text
 🌞 Morning                2344 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
 🌆 Daytime                7411 commits        ███████████░░░░░░░░░░░░░░   42.45 % 
-🌃 Evening                5691 commits        ████████░░░░░░░░░░░░░░░░░   32.60 % 
+🌃 Evening                5692 commits        ████████░░░░░░░░░░░░░░░░░   32.60 % 
 🌙 Night                  2012 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
 ```
 📅 **I'm Most Productive on Monday** 
@@ -56,7 +56,7 @@
 ```text
 Monday                   3158 commits        █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
 Tuesday                  2701 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-Wednesday                2719 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+Wednesday                2720 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
 Thursday                 2524 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
 Friday                   2863 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
 Saturday                 1949 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
@@ -70,23 +70,41 @@ Sunday                   1544 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               37 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Opencode Cli             0 secs              █████████████████████████   100.00 % 
+VS Code                  36 mins             ████████████████████████░   94.76 % 
+Codex Vscode             1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+Opencode Cli             0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      37 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 6 mins (16.33%)
+
+✍️ 0 lines written by AI, 10 lines written by hand (0.0% AI-written)
+
+🔤 43,943 Input Tokens, 3,068 Output Tokens
+
+💵 $3.26 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 3 AI Prompts
+
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📚 Verbose Prompter — average 3,220 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 25/11/2026 00:34:39 UTC
+ Last Updated on 26/11/2026 00:08:50 UTC
 <!--END_SECTION:waka-->
 </details>
 
