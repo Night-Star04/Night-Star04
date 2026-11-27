@@ -25,11 +25,11 @@
 <details><summary><h2>📊 My Dev Metrics</h2></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C297%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C298%20hrs%2031%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-158%20hrs%2041%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-158%20hrs%2047%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -70,41 +70,43 @@ Sunday                   1544 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-TypeScript               37 mins             █████████████████████████   100.00 % 
+TypeScript               1 hr 17 mins        █████████████████████░░░░   83.93 % 
+Bash                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
 
 🔥 Editors: 
-VS Code                  36 mins             ████████████████████████░   94.76 % 
-Codex Vscode             1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
-Opencode Cli             0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+VS Code                  1 hr 31 mins        ████████████████████████░   97.61 % 
+Codex Vscode             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+Opencode Cli             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 
 💻 Operating System: 
-WSL                      37 mins             █████████████████████████   100.00 % 
+WSL                      1 hr 32 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 mins (16.33%)
+⏱ AI Coding Time: 11 mins (12.76%)
 
-✍️ 0 lines written by AI, 10 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 106 lines written by hand (0.0% AI-written)
 
-🔤 43,943 Input Tokens, 3,068 Output Tokens
+🔤 71,504 Input Tokens, 6,550 Output Tokens
 
-💵 $3.26 Estimated AI Cost This Week
+💵 $3.48 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 3 AI Prompts
+🧠 2 AI Sessions, 5 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 3,220 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📚 Verbose Prompter — average 1,946 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 26/11/2026 00:08:50 UTC
+ Last Updated on 27/11/2026 00:31:47 UTC
 <!--END_SECTION:waka-->
 </details>
 
