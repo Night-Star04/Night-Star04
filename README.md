@@ -29,7 +29,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-158%20hrs%2047%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -70,25 +70,28 @@ Sunday                   1544 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-TypeScript               1 hr 17 mins        █████████████████████░░░░   83.93 % 
-Bash                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
-Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+Other                    1 hr 57 mins        ██████████████░░░░░░░░░░░   56.07 % 
+TypeScript               1 hr 17 mins        █████████░░░░░░░░░░░░░░░░   36.87 % 
+Bash                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
 
 🔥 Editors: 
-VS Code                  1 hr 31 mins        ████████████████████████░   97.61 % 
-Codex Vscode             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
-Opencode Cli             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Word                     1 hr 57 mins        ██████████████░░░░░░░░░░░   55.82 % 
+VS Code                  1 hr 31 mins        ███████████░░░░░░░░░░░░░░   43.12 % 
+Codex Vscode             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Opencode Cli             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 💻 Operating System: 
-WSL                      1 hr 32 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 57 mins        ██████████████░░░░░░░░░░░   56.07 % 
+WSL                      1 hr 32 mins        ███████████░░░░░░░░░░░░░░   43.93 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 mins (12.76%)
+⏱ AI Coding Time: 11 mins (5.6%)
 
-✍️ 0 lines written by AI, 106 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 133 lines written by hand (0.0% AI-written)
 
 🔤 71,504 Input Tokens, 6,550 Output Tokens
 
@@ -106,7 +109,7 @@ GPT                      0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 27/11/2026 00:31:47 UTC
+ Last Updated on 28/11/2026 00:02:36 UTC
 <!--END_SECTION:waka-->
 </details>
 
